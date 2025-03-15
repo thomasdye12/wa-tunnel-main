@@ -14,7 +14,7 @@
     "dnstunneling",
     "freeinternet"
   ],
-  "author": "aleixrodriala",
+  "author": "Thomas Dye ",
   "license": "ISC",
   "lint-staged": {
     "src/**/*.{js}": [
